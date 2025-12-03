@@ -85,3 +85,6 @@ docker run --rm -d -p 9080:9080 modresorts:latest
 
 ## Migration Bundle
 The `migration_bundle` directory contains a migration bundle for ModResorts created by [IBM Transformation Advisor](https://www.ibm.com/products/cloud-pak-for-applications/transformation-advisor). It contains an analysis of the application and artifacts that accelerate modernization to Liberty and cloud migration.
+
+## Docker image taken from
+https://hub.docker.com/_/ibm-semeru-runtimes
